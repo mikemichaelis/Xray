@@ -1,0 +1,39 @@
+Local
+
+	WWW
+	API
+	DB
+	SERVICE
+
+Remote
+
+	WWW
+	API
+	DB
+	SERVICE
+
+
+Xray.Web.Server
+
+Xray.Web.API.Server
+Xray.Web.API.System
+Xray.Web.API.BLL
+Xray.Web.API.DAL
+Xray.Web.API.DTO
+
+Xray.EF
+
+Xray.Service.API.Server
+Xray.Service.API.System
+Xray.Service.API.BLL
+Xray.Service.API.DAL
+Xray.Service.API.DTO
+
+Xray.Service.System
+Xray.Service.BLL
+Xray.Service.DAL
+
+Xray.Service.Device
+
+
+	
