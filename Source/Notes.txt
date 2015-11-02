@@ -15,23 +15,17 @@ Remote
 
 Xray.Web.Server
 
-Xray.Web.API.Server
-Xray.Web.API.System
-Xray.Web.API.BLL
-Xray.Web.API.DAL
-Xray.Web.API.DTO
+Xray.Server
+Xray.Server.BLL
+Xray.Server.DAL
+Xray.Server.API
 
 Xray.EF
 
-Xray.Service.API.Server
-Xray.Service.API.System
-Xray.Service.API.BLL
-Xray.Service.API.DAL
-Xray.Service.API.DTO
-
-Xray.Service.System
+Xray.Service
 Xray.Service.BLL
 Xray.Service.DAL
+Xray.Service.API
 
 Xray.Service.Device
 
